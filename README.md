@@ -1,1 +1,1 @@
-this is README file
+AprioriImplement folder contains the Java coder of the apriori algorithm
